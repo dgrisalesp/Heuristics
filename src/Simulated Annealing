@@ -1,0 +1,24 @@
+Best solution found in ../output/log.txt using 2.3430566787719727: Data_40_Salidas_composición_zonas_heterogéneas.xlsx within {'Z1': np.float64(555.0133333333334), 'Z2': np.float64(412.33)}
+Best zones: 555.0133333333334
+Best solution found in ../output/log.txt using 2.2997233867645264: Data_40_Salidas_composición_zonas_homogéneas.xlsx within {'Z1': np.float64(394.1000000000001), 'Z2': np.float64(514.6833333333334)}
+Best zones: 514.6833333333334
+Best solution found in ../output/log.txt using 3.4963903427124023: Data_60_Salidas_composición_zonas_heterogéneas.xlsx within {'Z1': np.float64(592.7866666666667), 'Z2': np.float64(419.33), 'Z3': np.float64(520.12)}
+Best zones: 675.4805194805194
+Best solution found in ../output/log.txt using 3.714001417160034: Data_60_Salidas_composición_zonas_homogéneas.xlsx within {'Z1': np.float64(533.2666666666667), 'Z2': np.float64(491.9333333333333), 'Z3': np.float64(426.51666666666665)}
+Best zones: 656.1794871794872
+Best solution found in ../output/log.txt using 4.456785678863525: Data_80_Salidas_composición_zonas_homogéneas.xlsx within {'Z1': np.float64(519.1833333333334), 'Z2': np.float64(494.0166666666666), 'Z3': np.float64(387.43333333333345), 'Z4': np.float64(477.6000000000001)}
+Best zones: 503.1601731601733
+Best solution found in ../output/log.txt using 2.082469940185547: Data_40_Salidas_composición_zonas_heterogéneas.xlsx within {'Z1': np.float64(552.6800000000001), 'Z2': np.float64(414.6633333333333)}
+Best zones: 552.6800000000001
+Best solution found in ../output/log.txt using 2.129621982574463: Data_40_Salidas_composición_zonas_heterogéneas.xlsx within {'Z1': np.float64(558.6800000000001), 'Z2': np.float64(408.66333333333336)}
+Best zones: 558.6800000000001
+Best solution found in ../output/log.txt using 2.0681416988372803: Data_40_Salidas_composición_zonas_homogéneas.xlsx within {'Z1': np.float64(512.1), 'Z2': np.float64(396.6833333333334)}
+Best zones: 515.1731601731602
+Best solution found in ../output/log.txt using 4.344510078430176: Data_60_Salidas_composición_zonas_heterogéneas.xlsx within {'Z1': np.float64(575.4533333333334), 'Z2': np.float64(433.7466666666667), 'Z3': np.float64(523.0366666666667)}
+Best zones: 679.2683982683983
+Best solution found in ../output/log.txt using 3.7813096046447754: Data_60_Salidas_composición_zonas_homogéneas.xlsx within {'Z1': np.float64(538.4333333333334), 'Z2': np.float64(430.26666666666665), 'Z3': np.float64(483.0166666666666)}
+Best zones: 661.9487179487179
+Best solution found in ../output/log.txt using 5.200612545013428: Data_80_Salidas_composición_zonas_heterogéneas.xlsx within {'Z1': np.float64(576.4300000000002), 'Z2': np.float64(378.33000000000004), 'Z3': np.float64(661.8466666666667), 'Z4': np.float64(378.7466666666667)}
+Best zones: 576.4300000000002
+Best solution found in ../output/log.txt using 4.93354058265686: Data_80_Salidas_composición_zonas_homogéneas.xlsx within {'Z1': np.float64(536.0999999999999), 'Z2': np.float64(407.1), 'Z3': np.float64(477.68333333333334), 'Z4': np.float64(457.3499999999999)}
+Best zones: 528.7012987012987
