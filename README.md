@@ -38,6 +38,14 @@ py randomized.py pedidos.xlsx resultado.xlsx [opcional]
 ```sh
 py simulated_annealing.py pedidos.xlsx resultado.xlsx [opcional]
 ```
+### Local Optimum
+```sh
+py lo.py pedidos.xlsx resultado.xlsx [opcional]
+```
+### Iterative Local Search
+```sh
+py ils.py pedidos.xlsx resultado.xlsx [opcional]
+```
 ### Correr todos los algoritmos en todos los casos de prueba
 ```sh
 py testing.py
