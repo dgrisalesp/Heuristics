@@ -178,5 +178,5 @@ if __name__ == "__main__":
     print('Best solution found:', max(data.productivity.values()))
     print("Workers assigned:", data.productivity)
     print (f'Execution time: {time.time() - start_time} seconds')
-    
+    print(len(best_solution.keys())==len(set(best_solution.keys())),len(best_solution.values())==len(set(best_solution.values())))
     log_results(input_file, best_max_time, data.zones_productivity, time.time() - start_time, 'Simulated Annealing')

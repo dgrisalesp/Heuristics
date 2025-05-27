@@ -36,15 +36,16 @@ for input_file in test_files:
         # Using subprocess to run the command
         import subprocess
         # start_time = time.time()
-        subprocess.run(['py', 'main.py', input_file], check=True)
-        subprocess.run(['py', 'simmulated_annealing.py', input_file], check=True)
+        # subprocess.run(['py', 'main.py', input_file], check=True)
+        # subprocess.run(['py', 'simmulated_annealing.py', input_file], check=True)
         # times_simmulated_annealing.append(time.time() - start_time)
         # print(times_simmulated_annealing[-1])
         # start_time = time.time()
         # times_constructive.append(time.time() - start_time)
         # print(times_constructive[-1])
-        subprocess.run(['py', 'lo.py', input_file], check=True)
-        subprocess.run(['py', 'ils.py', input_file], check=True)
+        # subprocess.run(['py', 'lo.py', input_file], check=True)
+        # subprocess.run(['py', 'ils.py', input_file], check=True)
+        subprocess.run(['py', 'genetic_algorithms.py', input_file], check=True)
     except subprocess.CalledProcessError as e:
         print(f"Error processing {input_file}: {e}")
     except Exception as e:

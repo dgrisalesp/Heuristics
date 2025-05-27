@@ -105,11 +105,12 @@ if __name__ == "__main__":
     best_max_time= data.score_solution(best_zones)
     # Write the results within an excel file
     data.write_excel(best_positions_orders, data.zones_productivity, output_file, input_file)
-    # print("Best positions orders:", best_positions_orders)
+    print("Best positions orders:", best_positions_orders)
     print("Best zones:", best_zones)
     print("Best zones 2:", data.zones_productivity)
     print("Productividad", data.productividad)
     print("Best solution found:", best_max_time)
     print("Workers:", data.productivity)
     print("Execution time:", time.time() - start_time)
+    print(len(best_positions_orders.keys())==len(set(best_positions_orders.keys())),len(best_positions_orders.values())==len(set(best_positions_orders.values())))
     log_results(input_file, best_max_time, data.zones_productivity, time.time() - start_time, "ILS")

@@ -135,4 +135,5 @@ if __name__ == "__main__":
     write_excel(dict_positions_order, dict_zones, output_file, input_file)
     # print(dict_zones)
     print(f'Success Constructive, {input_file}, {max(dict_zones.values())}')
+    print(len(dict_positions_order.keys())==len(set(dict_positions_order.keys())),len(dict_positions_order.values())==len(set(dict_positions_order.values())))
     log_results(input_file, max(dict_zones.values()), productividad, time.time() - start_time, 'Constructive')
