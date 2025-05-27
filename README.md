@@ -46,6 +46,10 @@ py lo.py pedidos.xlsx resultado.xlsx [opcional]
 ```sh
 py ils.py pedidos.xlsx resultado.xlsx [opcional]
 ```
+### Genetic Algorithm
+```sh
+py genetic_algorithms.py pedidos.xlsx resultado.xlsx [opcional]
+```
 ### Correr todos los algoritmos en todos los casos de prueba
 ```sh
 py testing.py
